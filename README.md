@@ -1,4 +1,4 @@
-# Kerala Astrology Marriage Match Report
+# KAM Match Report
 
 A comprehensive Kerala/South Indian style astrology marriage matching system that analyzes compatibility between two individuals using traditional Jyotish principles.
 
