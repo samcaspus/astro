@@ -2977,6 +2977,8 @@ def main():
         input_path = Path(sys.argv[1]).expanduser().resolve()
     else:
         webbrowser.open("https://www.prokerala.com/astrology/jathakam.php")
+        webbrowser.open("https://www.prokerala.com/astrology/jathakam.php")
+        
         input_path = interactive_build_json()
 
     if not input_path.exists():
